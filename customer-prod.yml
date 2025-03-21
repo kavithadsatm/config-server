@@ -1,11 +1,1 @@
-build:
-  version: "3.0"
-
-loans:
-  message: "Welcome to customer related prod APIs "
-  contactDetails:
-    name: "Kavita Jalihal - Developer"
-    email: "kavita@bank.com"
-  onCallSupport:
-    - (452) 456-2176
-    - (546) 764-8934
+Customer Prod
